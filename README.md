@@ -70,7 +70,7 @@ FastAPI · Python · Pandas
 > All user data is simulated/mock for demo purposes only.
 
 - 100 fake users, with `signup_date`, `last_active_date`, and status (`active`/`churned`).
-- See: [`data/sample_users.csv`](data/sample_users.csv)
+- See: [`data/sample_events_retention_fixed.csv`](data/sample_events_retention_fixed.csv)
 
 ---
 
