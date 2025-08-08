@@ -89,3 +89,6 @@ FastAPI · Python · Pandas
 
 ---
 
+## 📄 Proof of Experience
+
+Internship letter from OTPless are included in the [`certificates`](certificates/) folder.
